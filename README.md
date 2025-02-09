@@ -61,9 +61,8 @@ At the **end of the script (`aes_encryption_decryption.py`)**, there is a sectio
 - You can update values for `data` and `key` in both **AES standard mode and CBC mode**  
 - Example section in the script:  
   ```python
-  data = b'2C\xf6\xa8\x88Z0\x8d11\x98\xa2\xe07\x074'
-  key  = b'\x2B\x7E\x15\x16\x28\xAE\xD2\xA6\xAB\xF7\x15\x88\x09\xCF\x4F\x3C'
-
+  data = b'2Cö¨Z011¢à74'
+  key  = b'+~(®Ò¦«÷	ÏO<'
   ```
   Modify these values to test different encryptions and decryptions.  
 
@@ -96,7 +95,7 @@ If the implementation is correct, the decrypted output should **match** the orig
 ## **📬 Connect with Me**  
 Feel free to reach out for **collaboration, feedback, or discussion** on cryptography-related projects! 🚀  
 
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)  
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-mobeen-tahir-81a65929b/)  
 🔗 **GitHub:** [Your GitHub Profile](https://github.com/Mobeen-01)  
 
 ---
